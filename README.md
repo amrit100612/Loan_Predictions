@@ -1,7 +1,7 @@
 **A heartfelt thank you to my amazing partners for their valuable contributions, support, and collaboration throughout this project 🙏**
 
-### 🌟 **@Srishtik-ui**
-### 🌟 **@amolsingh05**
+### 🌟 @Srishtik-ui
+### 🌟 @amolsingh05
 
 **Your efforts played a crucial role in making this project successful. 🚀**
 
